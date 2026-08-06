@@ -64,9 +64,8 @@ I enjoy building real-world software solutions that combine **AI-powered automat
 
 ### 📫 Connect With Me
 
-* 📧 **Email:** [your-email@example.com](mailto:your-email@example.com)
-* 💼 **LinkedIn:** https://linkedin.com/in/your-linkedin
-* 🌐 **GitHub:** https://github.com/your-github-username
+* 📧 **Email:** mdkasim7072445@gmail.com
+* 💼 **LinkedIn:** https://www.linkedin.com/in/mdkasim01/
 
 ---
 
