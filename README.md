@@ -18,9 +18,9 @@ I enjoy building real-world software solutions that combine **AI-powered automat
 
 ### 🛠️ Tech Stack
 
-**Languages:** Java | Python | C++ | JavaScript | SQL
+**Languages:** Java | Python | JavaScript | SQL
 
-**Frontend:** HTML5 | CSS3 | React | Vite | TypeScript
+**Frontend:** HTML5 | CSS3 | React | TypeScript
 
 **Backend:** Node.js | Express.js | REST APIs | JWT Authentication
 
